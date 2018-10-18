@@ -1,0 +1,39 @@
+This file is aimed at giving you some understanding of the program.
+
+This program is used for creating a wrapper capable of allocating memory
+efficiently.
+
+
+To compile it use either:
+
+    make
+    make all
+
+To compile it using debug flags:
+    make debug
+
+
+To run some tests:
+
+    make test
+
+
+To run the program, use either one of the following syntaxes:
+
+    LD_PRELOAD=libmalloc.so <PROGRAM_NAME>
+
+
+These commands have the same syntax as told in the subject (subject to whether
+they have been implemented or not (cf. TODO)).
+
+
+To clean everything created by the 'make' function do:
+    make clean
+
+
+Thank you for reading
+
+
+--
+Elie Halimi
+BING 2021

@@ -1,0 +1,20 @@
+This is a TODO file that aims at keeping track of my progress on this project.
+
+DONE:
+    - TODO file
+    - src folder
+    - Makefile
+    - README file
+    - tests folder
+
+DOING:
+    - creating libraries
+    - malloc
+TODO:
+    - realloc
+    - calloc
+    - free
+    - algorithm1: hashtable
+    - algorithm2: bucket
+    - algorithm3: list
+    - algorithm4: without metadata
