@@ -6,10 +6,10 @@ void *malloc(size_t size);
 struct list
 {
     int status;
-    int size;
+    size_t size;
     void *next;
-    int listcount;
-    int size_remaining;
+//    int listcount;
+//    int size_remaining;
 };
 
 
